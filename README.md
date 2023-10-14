@@ -1,1 +1,1 @@
-file:///D:/all%20task/krantis%20new%20one/tut1.html# javatut.html
+http://127.0.0.1:5500/tut1.html# javatut.html
